@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
-  To see some of my works you can go to my syte https://bludemics.com
+  To see some of my works you can go to my site https://bludemics.com
 </p>
 
 <p align="left">
