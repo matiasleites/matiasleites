@@ -11,6 +11,10 @@
 </p>
 
 <p align="left"> 
+  Online project from a workout manage app on https://gym.bludemics.com code on https://github.com/matiasleites/bludemics-gym
+</p>
+
+<p align="left"> 
   To see some of my works you can go to my site https://bludemics.com
 </p>
 
