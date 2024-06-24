@@ -5,17 +5,33 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm Matias a <strong>Front End Developer</strong>.<br>
+  I'm Matias and I work like <strong>Front End Developer</strong>.<br>
+I like to make fulls-tack app too<br>
   Currently i like to work with micro services, react, node, GCP, Firebase and new tecnologies.
   Learn more about me on my Linkedin profile https://www.linkedin.com/in/matiasleites/
 </p>
 
-<p align="left"> 
-  Online project from a workout manage app on https://gym.bludemics.com code on https://github.com/matiasleites/bludemics-gym
-</p>
+<h1>
+ Some projects
+</h1>
+
+<h4>
+ 1. FluirZen - AI Meditations
+</h4>
+<h5>
+ An app for daily meditations using AI to personalize and creating unique experiences
+</h5>
 
 <p align="left"> 
-  To see some of my works you can go to my site https://bludemics.com
+  Achieve serenity and inner peace with personalized AI meditations on https://fluirzen.com/ 
+</p>
+
+<h4>
+ 2. Bludemics Gym - Personal gym workout manager
+</h4>
+
+<p align="left"> 
+  Online project from a workout manage app on https://bludemics-gym.web.app/ <br>code on https://github.com/matiasleites/bludemics-gym
 </p>
 
 <p align="left">
