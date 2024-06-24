@@ -6,13 +6,13 @@
 
 <p align="left"> 
   I'm Matias and I work like <strong>Front End Developer</strong>.<br>
-I like to make fulls-tack app too<br>
+  I like to make fulls-tack app too<br>
   Currently i like to work with micro services, react, node, GCP, Firebase and new tecnologies.
   Learn more about me on my Linkedin profile https://www.linkedin.com/in/matiasleites/
 </p>
 
 <h1>
- Some projects
+ See some personal projects
 </h1>
 
 <h4>
