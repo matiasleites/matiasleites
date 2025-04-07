@@ -10,13 +10,26 @@
   Currently i like to work with micro services, react, node, GCP, Firebase and new tecnologies.
   Learn more about me on my Linkedin profile https://www.linkedin.com/in/matiasleites/
 </p>
-
+<p>
+   https://matiasleites.com.br
+</p>
 <h1>
  See some personal projects
 </h1>
 
 <h4>
- 1. FluirZen - AI Meditations
+ 1. MatiasLeites.com.br
+</h4>
+<h5>
+ My personal Portfolio
+</h5>
+
+<p align="left"> 
+  https://matiasleites.com.br
+</p>
+
+<h4>
+ 2. FluirZen - Mindfulness
 </h4>
 <h5>
  An app for daily meditations using AI to personalize and creating unique experiences
@@ -27,7 +40,7 @@
 </p>
 
 <h4>
- 2. Bludemics Gym - Personal gym workout manager
+ 3. Bludemics Gym - Personal gym workout manager
 </h4>
 
 <p align="left"> 
